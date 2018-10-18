@@ -31,6 +31,12 @@
 ## 2.2 Интерфейс пользователя:
 
 Представлен на мокапах
+#### **Вид приложения при запуске:**
+![](https://github.com/Dogvogol/Final-road/blob/70292618a2a90b525a06568b9721a645b9a48c95/Mockups/Start.png)
+#### **окно игры:**
+![](https://github.com/Dogvogol/Final-road/blob/70292618a2a90b525a06568b9721a645b9a48c95/Mockups/Play.png)          
+#### окно настроек:
+![](https://github.com/Dogvogol/Final-road/blob/70292618a2a90b525a06568b9721a645b9a48c95/Mockups/Setting.png)
 
 
 ## 2.3 Характеристики пользователей:
