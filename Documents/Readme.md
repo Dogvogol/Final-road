@@ -8,6 +8,9 @@
   1.2.3. Продолжить игру(#1.2.3) <br>
 2. [Activity Diagram](#2) <br>
 3. [States Diagram](#3) <br>
+4. [Class Diagram](#4) <br>
+5. [State Diagram](#5) <br>
+6. [Deployment Diagram](#6) <br>
 
 # 1. Use Case Diagram <a name = "1"></a>
 
@@ -60,5 +63,17 @@
 Activity diagram is [here](https://github.com/Dogvogol/Final-road/tree/master/Documents/Acrivity%20Diagram)
 
 
-# 4. Sequence Diagram <a name = "3"></a>
+# 3. Sequence Diagram <a name = "3"></a>
 <img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Sequence%20Diagram/Sequence.png">
+
+
+# 4. Class Diagram <a name = "4"></a>
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Class%20Diagram/ClassDiagram.png">
+
+
+# 5. State Diagram <a name = "5"></a>
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/State%20Diagram/StateDiagram.png">
+
+
+# 6. Deployment Diagram <a name = "6"></a>
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Deployment%20Diagram/DeploymentDiagram.png">
