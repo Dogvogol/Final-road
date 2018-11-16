@@ -11,6 +11,7 @@
 4. [Class Diagram](#4) <br>
 5. [State Diagram](#5) <br>
 6. [Deployment Diagram](#6) <br>
+7. [Struct Diagram](#7) <br>
 
 # 1. Use Case Diagram <a name = "1"></a>
 
@@ -68,12 +69,15 @@ Activity diagram is [here](https://github.com/Dogvogol/Final-road/tree/master/Do
 
 
 # 4. Class Diagram <a name = "4"></a>
-<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Class%20Diagram/ClassDiagram.png">
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Class%20Diagram/ClassDiagramNew.png">
 
 
 # 5. State Diagram <a name = "5"></a>
-<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/State%20Diagram/StateDiagram.png">
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/State%20Diagram/StateDiagramNew.png">
 
 
 # 6. Deployment Diagram <a name = "6"></a>
 <img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Deployment%20Diagram/DeploymentDiagram.png">
+
+# 7. Struct Diagram <a name = "7"></a>
+<img src="https://github.com/Dogvogol/Final-road/blob/master/Documents/Stract%20Diagram/StractDiagram.png">
