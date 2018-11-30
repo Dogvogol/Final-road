@@ -1,4 +1,4 @@
-package com.dogvogol.Final-road;
+package com.dogvogol.labirint;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
