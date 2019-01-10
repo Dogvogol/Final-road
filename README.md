@@ -11,5 +11,5 @@
 1.2. [Проектирование системы](Documents/SDS.md)
 2. [Исходный код](source_code/src/main/java/com/dogvogol/Final-road)
 3. [Тестирование](Documents)  
-3.1. [План тестирования](Documents/test plan.md)  
-3.2. [Представление результатов](Documents/test result.md)  
+3.1. [План тестирования](Documents/testplan.md)  
+3.2. [Представление результатов](Documents/testresult.md)  
